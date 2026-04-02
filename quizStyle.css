@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+}
+
+.question{
+    background-color: hotpink;
+    color: rgb(149, 45, 127);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+/* spacing between options */
+label{
+    display: block;
+    margin: 5px 0;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+}

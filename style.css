@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+h1{
+    text-shadow: 5px 5px 10px grey;
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+p{
+    font-style: italic
+}
+
+ul{
+    font-style: italic;
+}
+
+li {
+    display: inline-block;
+    background-color: hotpink;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    list-style: none;
+}
