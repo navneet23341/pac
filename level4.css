@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#quizblock{
+    border: 2px solid black;
+    background-color: aquamarine;
+    align-items: center;
+    text-align: center;
+    vertical-align: center;
+    vertical-align: middle;
+    width: 1000px;
+    border-radius: 10px;
+
+}
+
+.question{
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bold;
+}

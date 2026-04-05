@@ -1,0 +1,52 @@
+bold text so use <b> </b>
+italic <i> </i>
+
+big , small , sub ,  sup , ins , del , mark these will be tags 
+
+we can maake list unordered list , ordered list , description list
+
+<ul>
+    <li> </li>
+    <li></li>
+
+ </ul>
+
+ similar orderd list but it use <ol> </ol>
+ and it numbered an we can type attribute to change a 
+
+ description list ,we use <dl> <dt></dt> <dd></dd></dl>
+
+ how to create table 
+ <table>
+    <tr>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr>
+        <td></td>    
+    </tr>
+ </table>
+
+ color add, <h1 style= ""> hello</h1>
+
+ span tag add markup to some portion of text like we can change some text colour not whole 
+
+ div are similar but it divide the document like make part 
+
+ <meta> data about data 
+
+ integrating <iframe> tag to place image in html
+
+ <iframe src= "www.google.com">
+
+ creating a button in html , using  
+ <a href = "" ><button> clicm nme </button> </a>
+
+
+
+forms - 
+
+<form>
+    <label for= "fname">first name </lable>
+    <input type="text" id = "fname" name="fname" placeholder= ""exampl  e >
+ <form>

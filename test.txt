@@ -1,0 +1,15 @@
+in line comment use //
+
+//in line 
+/*
+kjkj
+kenk
+kek
+\
+*/
+
+var name = "hey"
+let name = "hey" it work in scoppe
+const pi = 3.14
+
+it is case sensitve
